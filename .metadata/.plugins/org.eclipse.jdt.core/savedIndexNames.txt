@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/home/chris/Projects/Android/Workspace2/FitBeat/.metadata/.plugins/org.eclipse.jdt.core
+455834254.index
+3881119879.index
